@@ -4,7 +4,7 @@
   "description": "WKR bot implementation",
   "main": "WKR.js",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^1.6.5",
     "dotenv": "^8.2.0",
     "node-persist": "^3.0.5",
     "replaceall": "^0.1.6",
